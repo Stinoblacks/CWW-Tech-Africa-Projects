@@ -1,0 +1,7 @@
+thus far, we have read the netflix_data data, filtered the duration, genre,
+release year, title columns. We went on to perform the explanatory data analysis.
+the EDA,the tables extracted and the emanating scatter plots show that indeed, the duration of movies have reduced
+over the years.
+
+To be very certain, we may want run correlation or time series analysis on the data to tell
+us how significantly movie duration have reduced over the years.
