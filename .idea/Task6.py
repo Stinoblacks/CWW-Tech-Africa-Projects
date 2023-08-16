@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 from Task5 import netflix_movie_col_subset
 
 netflix_movie_col_subset.plot.scatter(x='release_year', y='duration')
